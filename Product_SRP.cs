@@ -14,9 +14,8 @@ namespace WEB_Principles.Models
         public int FoodPrice { get; set; }
     }
 
-    class BookDisplay
-    {
-        // отображение книги
+    class Product_SRP Display
+    {        
         public void Show(Product_SRP product,IDevice device)
         {
             string text = String.Format("");
