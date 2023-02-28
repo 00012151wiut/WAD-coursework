@@ -1,0 +1,8 @@
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.csproj.AssemblyReference.cache
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.AssemblyInfoInputs.cache
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.AssemblyInfo.cs
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.csproj.CoreCompileInputs.cache
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.RazorAssemblyInfo.cache
+C:\Users\99890\source\repos\WEB_Principles\obj\Debug\netcoreapp3.1\WEB_Principles.RazorAssemblyInfo.cs
