@@ -15,7 +15,7 @@ namespace WEB_Principles.Models
             DoSomething("2", "Coffee", "Americano");
             DoSomething("3", "Cake", "Cheese teramisu");
             DoSomething("4", "Cake", "Teramisu");
-            Console.ReadLine();
+            
         }
         private static void DoSomething(string foodid, string foodtype, string foodname)
         {
