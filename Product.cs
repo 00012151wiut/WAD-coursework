@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-/*namespace WEB_Principles.Models
+namespace WEB_Principles.Models
 {
     public class Product
     {
@@ -52,4 +52,3 @@ using System.Threading.Tasks;
 
     }
 }
-*/
